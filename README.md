@@ -1,6 +1,7 @@
 # Langverse | Language Learning App
 Langverse is a language-learning app designed to help users learn foreign languages and expand their vocabulary. The app incorporates various features and technologies to provide an immersive learning experience.
 
+<img src="4.jpg" alt="Description" width="200" height="450"> <img src="2.jpg" alt="Description" width="200" height="450"> <img src="1.jpg" alt="Description" width="200" height="450"> <img src="3.jpg" alt="Description" width="200" height="450">
 ## Features
 - Learn New Words Daily: Users can explore and learn new words daily. The app utilizes an external API to fetch a curated list of words for each language.
 
