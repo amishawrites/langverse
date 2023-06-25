@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.translate">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".classes.FrenchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".classes.SpanishActivity"
+            android:exported="false" />
+        <activity
+            android:name=".classes.FinnishActivity"
+            android:exported="false" />
+        <activity
+            android:name=".classes.QuizCompleteSplashActivity"
+            android:theme="@style/SplashScreenTheme" />
+
+
+        <activity
+            android:name=".classes.SplashScreenActivity"
+            android:exported="true"
+            android:theme="@style/SplashScreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".classes.SignInActivity"
+            android:exported="true" >
+        </activity>
+        <activity
+            android:name=".classes.SignUpActivity"
+            android:exported="false" />
+
+        <activity android:name=".classes.ResultActivity" />
+        <activity android:name=".classes.WordsActivity" />
+        <activity android:name=".classes.StatsActivity" />
+        <activity android:name=".classes.QuizActivity" />
+        <activity android:name=".classes.MainActivity" />
+
+        <activity
+            android:name=".classes.WordActivitySpanish"
+            android:exported="false"
+            android:label="@string/word_activity_title" />
+
+
+        <activity android:name=".classes.ColorsActivity"
+            android:label="@string/category_colors"
+            android:parentActivityName=".classes.FrenchActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".classes.FrenchActivity"/>
+        </activity>
+
+        <activity android:name=".classes.FamilyActivity"
+            android:label="@string/category_family"
+            android:parentActivityName=".classes.FrenchActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".classes.FrenchActivity"/>
+        </activity>
+
+        <activity android:name=".classes.NumbersActivity"
+            android:label="@string/category_numbers"
+            android:parentActivityName=".classes.FrenchActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".classes.FrenchActivity"/>
+        </activity>
+
+        <activity android:name=".classes.PhraseActivity"
+            android:label="@string/category_phrases"
+            android:parentActivityName=".classes.FrenchActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".classes.FrenchActivity"/>
+
+
+        </activity>
+
+    </application>
+
+</manifest>

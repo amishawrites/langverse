@@ -1,0 +1,5174 @@
+abadía (la)
+abbey
+
+abogado (el)
+lawyer
+
+acabado (el)
+finish
+
+acantilado (el)
+cliff
+
+acceso (el)
+access
+
+accidente (el)
+accident
+
+accionista (el)
+shareholder
+
+acción (la)
+action
+
+aceite (el)
+oil
+
+acento (el)
+accent
+
+aceptación (la)
+acceptance
+
+acero (el)
+steel
+
+acre (el)
+acre
+
+acreedor (el)
+creditor
+
+actitud (la)
+attitude
+
+actividad (la)
+activity
+
+activo (el)
+asset
+
+acto (el)
+act
+
+actor (el)
+actor
+
+acuerdo (el)
+deal
+
+acusado (el)
+defendant
+
+adición (la)
+addition
+
+administración (la)
+administration
+
+admisión (la)
+admission
+
+adn (el)
+dna
+
+adolescente (el)
+teenager
+
+adquisición (la)
+acquisition
+
+adulto (el)
+adult
+
+advertencia (la)
+warning
+
+aeronave (la)
+aircraft
+
+aeropuerto (el)
+airport
+
+agencia (la)
+agency
+
+agente (el)
+agent
+
+agricultor (el)
+farmer
+
+agricultura (la)
+agriculture
+
+agua (el)
+water
+
+aguja (la)
+needle
+
+agujero (el)
+hole
+
+ahorro (el)
+saving
+
+aire (el)
+air
+
+aislamiento (el)
+isolation
+
+ajuste (el)
+setting
+
+ala (el)
+wing
+
+alambre (el)
+wire
+
+alarma (la)
+alarm
+
+alcalde (el)
+mayor
+
+alcance (el)
+scope
+
+alcohol (el)
+alcohol
+
+alegación (la)
+allegation
+
+alegría (la)
+joy
+
+alemán (el)
+german
+
+alfombra (la)
+carpet
+
+algodón (el)
+cotton
+
+alguacil (el)
+constable
+
+aliado (el)
+ally
+
+alianza (la)
+alliance
+
+alivio (el)
+relief
+
+alma (el)
+soul
+
+almacenamiento (el)
+storage
+
+almuerzo (el)
+lunch
+
+alojamiento (el)
+accommodation
+
+alquiler (el)
+rent
+
+altavoz (el)
+speaker
+
+alternativa (la)
+alternative
+
+altura (la)
+height
+
+amante (el)
+lover
+
+ambición (la)
+ambition
+
+ambulancia (la)
+ambulance
+
+amenaza (la)
+threat
+
+americana (la)
+american
+
+amigo (el)
+friend
+
+amistad (la)
+friendship
+
+amor (el)
+love
+
+analista (el)
+analyst
+
+anfitrión (el)
+host
+
+anillo (el)
+ring
+
+animal (el)
+animal
+
+aniversario (el)
+anniversary
+
+ansiedad (la)
+anxiety
+
+anuncio (el)
+announcement
+
+análisis (el)
+analysis
+
+aparición (la)
+appearance
+
+apartamento (el)
+apartment
+
+apelación (la)
+appeal
+
+apertura (la)
+opening
+
+aplicación (la)
+application
+
+apoyo (el)
+support
+
+aprendizaje (el)
+learning
+
+aprobación (la)
+approval
+
+apéndice (el)
+appendix
+
+archivo (el)
+file
+
+arcilla (la)
+clay
+
+arena (la)
+sand
+
+argumento (el)
+argument
+
+arma (el)
+weapon
+
+armario (el)
+cabinet
+
+arquitecto (el)
+architect
+
+arquitectura (la)
+architecture
+
+arrendador (el)
+landlord
+
+arte (el)
+art
+
+artista (el)
+artist
+
+artículo (el)
+article
+
+arzobispo (el)
+archbishop
+
+asalto (el)
+assault
+
+asamblea (la)
+assembly
+
+ascensor (el)
+lift
+
+asentamiento (el)
+settlement
+
+asesinato (el)
+murder
+
+asesino (el)
+killer
+
+asesor (el)
+adviser
+
+asiento (el)
+seat
+
+asignación (la)
+assignment
+
+asistencia (la)
+attendance
+
+asistente (el)
+assistant
+
+asociación (la)
+partnership
+
+aspecto (el)
+aspect
+
+asunción (la)
+assumption
+
+asunto (el)
+affair
+
+ataque (el)
+attack
+
+atención (la)
+attention
+
+aterrizaje (el)
+landing
+
+atmósfera (la)
+atmosphere
+
+atracción (la)
+attraction
+
+audiencia (la)
+audience
+
+auditor (el)
+auditor
+
+auditoría (la)
+audit
+
+aula (el)
+classroom
+
+aumento (el)
+increase
+
+ausencia (la)
+absence
+
+auto (el)
+self
+
+autobús (el)
+bus
+
+autonomía (la)
+autonomy
+
+autor (el)
+author
+
+autoridad (la)
+authority
+
+avance (el)
+advance
+
+avenida (la)
+avenue
+
+aventura (la)
+adventure
+
+ayuda (la)
+help
+
+ayudas (las)
+aids
+
+ayuntamiento (el)
+council
+
+azul (el)
+blue
+
+azúcar (el)
+sugar
+
+año (el)
+year
+
+bahía (la)
+bay
+
+balance (el)
+balance
+
+banca (la)
+banking
+
+banco (el)
+bank
+
+banda (la)
+band
+
+bandeja (la)
+tray
+
+bandera (la)
+flag
+
+bar (el)
+bar
+
+barco (el)
+ship
+
+barrera (la)
+barrier
+
+barro (el)
+mud
+
+basura (la)
+rubbish
+
+batalla (la)
+battle
+
+batería (la)
+battery
+
+baño (el)
+bath
+
+bebida (la)
+drink
+
+bebé (el)
+baby
+
+becario (el)
+fellow
+
+belleza (la)
+beauty
+
+beneficio (el)
+benefit
+
+beso (el)
+kiss
+
+biblia (la)
+bible
+
+biblioteca (la)
+library
+
+bien (el)
+good
+
+bienestar (el)
+welfare
+
+billete (el)
+ticket
+
+blanco (el)
+white
+
+bloque (el)
+block
+
+boca (la)
+mouth
+
+bodega (la)
+hold
+
+bolsa (la)
+bag
+
+bolsillo (el)
+pocket
+
+bomba (la)
+bomb
+
+bono (el)
+bonus
+
+boom (el)
+boom
+
+borde (el)
+edge
+
+bosque (el)
+forest
+
+bota (la)
+boot
+
+botella (la)
+bottle
+
+botón (el)
+button
+
+brazo (el)
+arm
+
+brecha (la)
+gap
+
+broma (la)
+joke
+
+bronce (el)
+bronze
+
+buque (el)
+vessel
+
+búsqueda (la)
+search
+
+caballero (el)
+gentleman
+
+caballo (el)
+horse
+
+cabello (el)
+hair
+
+cabeza (la)
+head
+
+cabina (la)
+cab
+
+cable (el)
+cable
+
+cadera (la)
+hip
+
+café (el)
+coffee
+
+caja (la)
+box
+
+calendario (el)
+schedule
+
+calidad (la)
+quality
+
+calificación (la)
+qualification
+
+calle (la)
+street
+
+calor (el)
+heat
+
+cama (la)
+bed
+
+cambio (el)
+shift
+
+caminata (la)
+walk
+
+camino (el)
+way
+
+camisa (la)
+shirt
+
+camión (el)
+truck
+
+campamento (el)
+camp
+
+campana (la)
+bell
+
+campaña (la)
+campaign
+
+campeonato (el)
+championship
+
+campesino (el)
+peasant
+
+campeón (el)
+champion
+
+campo (el)
+field
+
+canal (el)
+channel
+
+canciller (el)
+chancellor
+
+canción (la)
+song
+
+candidato (el)
+candidate
+
+cantante (el)
+singer
+
+cantidad (la)
+amount
+
+cap (el)
+chap
+
+capa (la)
+coat
+
+capacidad (la)
+ability
+
+capilla (la)
+chapel
+
+capital (la)
+capital
+
+capitalismo (el)
+capitalism
+
+capitán (el)
+captain
+
+capítulo (el)
+chapter
+
+cara (la)
+face
+
+característica (la)
+feature
+
+carbono (el)
+carbon
+
+carbón (el)
+coal
+
+carcasa (la)
+housing
+
+carga (la)
+charge
+
+cargo (el)
+post
+
+caridad (la)
+charity
+
+carne (la)
+meat
+
+carrera (la)
+race
+
+carretera (la)
+road
+
+carril (el)
+lane
+
+carro (el)
+carriage
+
+carta (la)
+charter
+
+cartera (la)
+portfolio
+
+carácter (el)
+character
+
+casa (la)
+house
+
+caso (el)
+case
+
+castigo (el)
+punishment
+
+castillo (el)
+castle
+
+catedral (la)
+cathedral
+
+categoría (la)
+category
+
+catálogo (el)
+catalogue
+
+caza (la)
+hunting
+
+caída (la)
+fall
+
+celebración (la)
+celebration
+
+cena (la)
+dinner
+
+centro (el)
+middle
+
+cepa (la)
+strain
+
+cepillo (el)
+brush
+
+cerdo (el)
+pig
+
+cerebro (el)
+brain
+
+ceremonia (la)
+ceremony
+
+cerradura (la)
+lock
+
+certificado (el)
+certificate
+
+cerveza (la)
+beer
+
+cesta (la)
+basket
+
+champagne (el)
+champagne
+
+chaqueta (la)
+jacket
+
+charla (la)
+talk
+
+cheque (el)
+check
+
+chica (la)
+girl
+
+chico (el)
+guy
+
+chip (el)
+chip
+
+chocolate (el)
+chocolate
+
+choque (el)
+shock
+
+chorro (el)
+jet
+
+ciclo (el)
+cycle
+
+cielo (el)
+sky
+
+cien (el)
+hundred
+
+ciencia (la)
+science
+
+científico (el)
+scientist
+
+cierre (el)
+closure
+
+cigarrillo (el)
+cigarette
+
+cine (el)
+cinema
+
+cinta (la)
+tape
+
+cinturón (el)
+belt
+
+circunscripción (la)
+constituency
+
+circunstancia (la)
+circumstance
+
+cirugía (la)
+surgery
+
+ciudad (la)
+city
+
+ciudadano (el)
+citizen
+
+clase (la)
+class
+
+clasificación (la)
+classification
+
+clave (la)
+clue
+
+cliente (el)
+client
+
+clima (el)
+weather
+
+club (el)
+club
+
+cláusula (la)
+clause
+
+clínica (la)
+clinic
+
+cm (el)
+cm
+
+co (la)
+co
+
+coalición (la)
+coalition
+
+cobertura (la)
+coverage
+
+cobre (el)
+copper
+
+coche (el)
+car
+
+cocina (la)
+kitchen
+
+cola (la)
+tail
+
+colapso (el)
+collapse
+
+colección (la)
+collection
+
+colector (el)
+collector
+
+colega (el)
+colleague
+
+colina (la)
+hill
+
+colonia (la)
+colony
+
+color (el)
+colour
+
+columna (la)
+column
+
+comandante (el)
+commander
+
+comando (el)
+command
+
+combates (los)
+fighting
+
+combinación (la)
+combination
+
+combustible (el)
+fuel
+
+comentario (el)
+comment
+
+comercialización (la)
+marketing
+
+comerciante (el)
+trader
+
+comercio (el)
+trade
+
+comida (la)
+food
+
+comisionado (el)
+commissioner
+
+comisión (la)
+commission
+
+comité (el)
+committee
+
+comodidad (la)
+comfort
+
+comparación (la)
+comparison
+
+compañero (el)
+companion
+
+compensación (la)
+compensation
+
+competencia (la)
+competition
+
+competidor (el)
+competitor
+
+complejidad (la)
+complexity
+
+complejo (el)
+complex
+
+componente (el)
+component
+
+comportamiento (el)
+behaviour
+
+composición (la)
+composition
+
+compra (la)
+purchase
+
+comprador (el)
+buyer
+
+compras (las)
+shopping
+
+comprensión (la)
+understanding
+
+compromiso (el)
+commitment
+
+compuesto (el)
+compound
+
+comunicación (la)
+communication
+
+comunidad (la)
+community
+
+concejal (el)
+councillor
+
+concentración (la)
+concentration
+
+concepción (la)
+conception
+
+concepto (el)
+concept
+
+concesión (la)
+concession
+
+concha (la)
+shell
+
+conciencia (la)
+awareness
+
+concierto (el)
+concert
+
+conclusión (la)
+conclusion
+
+concurso (el)
+contest
+
+condado (el)
+county
+
+conde (el)
+earl
+
+condición (la)
+condition
+
+conducta (la)
+conduct
+
+conejo (el)
+rabbit
+
+conexión (la)
+connection
+
+conferencia (la)
+conference
+
+confianza (la)
+confidence
+
+conflicto (el)
+conflict
+
+confusión (la)
+confusion
+
+congreso (el)
+congress
+
+conjunto (el)
+whole
+
+conocimiento (el)
+knowledge
+
+consecuencia (la)
+consequence
+
+consejo (el)
+advice
+
+consentimiento (el)
+consent
+
+conservación (la)
+conservation
+
+conservadora (la)
+conservative
+
+consideración (la)
+consideration
+
+constitución (la)
+constitution
+
+constituyente (el)
+constituent
+
+construcción (la)
+construction
+
+constructor (el)
+builder
+
+consulta (la)
+consultation
+
+consultor (el)
+consultant
+
+consumidor (el)
+consumer
+
+consumo (el)
+consumption
+
+contacto (el)
+contact
+
+contador (el)
+counter
+
+contaminación (la)
+pollution
+
+contenido (el)
+content
+
+contexto (el)
+context
+
+continente (el)
+continent
+
+contorno (el)
+outline
+
+contraparte (la)
+counterpart
+
+contraste (el)
+contrast
+
+contrato (el)
+contract
+
+contribución (la)
+contribution
+
+control (el)
+control
+
+controlador (el)
+driver
+
+controversia (la)
+controversy
+
+convención (la)
+convention
+
+conversación (la)
+conversation
+
+conversión (la)
+conversion
+
+convicción (la)
+conviction
+
+copa (la)
+cup
+
+copia (la)
+copy
+
+corazón (el)
+heart
+
+corona (la)
+crown
+
+coronel (el)
+colonel
+
+corp (la)
+corp
+
+corporación (la)
+corporation
+
+corredor (el)
+corridor
+
+correlación (la)
+correlation
+
+correo (el)
+mail
+
+corresponsal (el)
+correspondent
+
+corte (el)
+cut
+
+corte (la)
+court
+
+cortina (la)
+curtain
+
+cosa (la)
+thing
+
+cosas (las)
+stuff
+
+costa (la)
+coast
+
+costo (el)
+cost
+
+costumbre (la)
+custom
+
+creación (la)
+creation
+
+crecimiento (el)
+growth
+
+creencia (la)
+belief
+
+crema (la)
+cream
+
+criatura (la)
+creature
+
+crimen (el)
+crime
+
+crisis (la)
+crisis
+
+cristal (el)
+glass
+
+cristiano (el)
+christian
+
+criterio (el)
+criterion
+
+cruz (la)
+cross
+
+crédito (el)
+credit
+
+críticas (las)
+criticism
+
+crítico (el)
+critic
+
+cuba (la)
+vat
+
+cubierta (la)
+deck
+
+cuchilla (la)
+blade
+
+cuchillo (el)
+knife
+
+cuello (el)
+neck
+
+cuenco (el)
+bowl
+
+cuenta (la)
+account
+
+cuento (el)
+tale
+
+cuerda (la)
+rope
+
+cuero (el)
+leather
+
+cuerpo (el)
+body
+
+cuestión (la)
+question
+
+cuidado (el)
+care
+
+culpa (la)
+guilt
+
+cultivo (el)
+crop
+
+cultura (la)
+culture
+
+cumbre (la)
+summit
+
+cumpleaños (el)
+birthday
+
+cuota (la)
+share
+
+curso (el)
+course
+
+curva (la)
+curve
+
+cálculo (el)
+calculation
+
+cámara (la)
+camera
+
+cáncer (el)
+cancer
+
+célula (la)
+cell
+
+círculo (el)
+circle
+
+código (el)
+code
+
+dama (la)
+lady
+
+danza (la)
+dance
+
+datos (los)
+data
+
+daño (el)
+damage
+
+debate (el)
+debate
+
+deber (el)
+duty
+
+debilidad (la)
+weakness
+
+decepción (la)
+disappointment
+
+decisión (la)
+decision
+
+declaración (la)
+statement
+
+dedo (el)
+finger
+
+defensa (la)
+defence
+
+defensor (el)
+defender
+
+definición (la)
+definition
+
+delegación (la)
+delegation
+
+delegado (el)
+delegate
+
+deleite (el)
+delight
+
+delincuente (el)
+offender
+
+delito (el)
+offence
+
+demanda (la)
+demand
+
+demandante (el)
+plaintiff
+
+democracia (la)
+democracy
+
+demostración (la)
+demonstration
+
+demócrata (el)
+democrat
+
+densidad (la)
+density
+
+departamento (el)
+department
+
+deporte (el)
+sport
+
+depresión (la)
+depression
+
+depósito (el)
+deposit
+
+derecho (el)
+right
+
+derrota (la)
+defeat
+
+desafío (el)
+challenge
+
+desarrollador (el)
+developer
+
+desarrollo (el)
+development
+
+desastre (el)
+disaster
+
+desayuno (el)
+breakfast
+
+desconocido (el)
+stranger
+
+descripción (la)
+description
+
+descubrimiento (el)
+discovery
+
+descuento (el)
+discount
+
+desempeño (el)
+performance
+
+deseo (el)
+desire
+
+desgarro (el)
+tear
+
+desierto (el)
+desert
+
+despido (el)
+dismissal
+
+destino (el)
+fate
+
+destrucción (la)
+destruction
+
+desventaja (la)
+disadvantage
+
+detalle (el)
+detail
+
+detective (el)
+detective
+
+detención (la)
+arrest
+
+determinación (la)
+determination
+
+deuda (la)
+debt
+
+diablo (el)
+devil
+
+diagnóstico (el)
+diagnosis
+
+diagrama (el)
+diagram
+
+diamante (el)
+diamond
+
+diario (el)
+diary
+
+dibujo (el)
+drawing
+
+diccionario (el)
+dictionary
+
+diente (el)
+tooth
+
+dieta (la)
+diet
+
+diferencia (la)
+difference
+
+dificultad (la)
+difficulty
+
+dimensión (la)
+dimension
+
+dinero (el)
+money
+
+dios (el)
+god
+
+dirección (la)
+direction
+
+directiva (la)
+directive
+
+director (el)
+director
+
+directorio (el)
+directory
+
+directriz (la)
+guideline
+
+discapacidad (la)
+disability
+
+disciplina (la)
+discipline
+
+disco (el)
+disc
+
+discreción (la)
+discretion
+
+discriminación (la)
+discrimination
+
+discurso (el)
+speech
+
+discusión (la)
+discussion
+
+diseñador (el)
+designer
+
+diseño (el)
+design
+
+disminución (la)
+decline
+
+disparo (el)
+shot
+
+disponibilidad (la)
+availability
+
+disposición (la)
+arrangement
+
+dispositivo (el)
+device
+
+distancia (la)
+distance
+
+distinción (la)
+distinction
+
+distribución (la)
+distribution
+
+distribuidor (el)
+dealer
+
+distrito (el)
+district
+
+disturbios (los)
+riot
+
+dividendo (el)
+dividend
+
+división (la)
+division
+
+divorcio (el)
+divorce
+
+diálogo (el)
+dialogue
+
+docena (la)
+dozen
+
+doctrina (la)
+doctrine
+
+documento (el)
+paper
+
+dolor (el)
+pain
+
+dominio (el)
+domain
+
+dormitorio (el)
+bedroom
+
+dosis (la)
+dose
+
+drama (el)
+drama
+
+droga (la)
+drug
+
+ducha (la)
+shower
+
+duda (la)
+doubt
+
+duque (el)
+duke
+
+duración (la)
+duration
+
+década (la)
+decade
+
+déficit (el)
+deficit
+
+día (el)
+day
+
+dólar (el)
+dollar
+
+economía (la)
+economy
+
+ecuación (la)
+equation
+
+edad (la)
+age
+
+edición (la)
+edition
+
+edificio (el)
+building
+
+editor (el)
+editor
+
+educación (la)
+education
+
+efecto (el)
+effect
+
+eficiencia (la)
+efficiency
+
+ejecución (la)
+execution
+
+ejecutivo (el)
+executive
+
+ejemplo (el)
+example
+
+ejercicio (el)
+exercise
+
+ejército (el)
+army
+
+elección (la)
+election
+
+electricidad (la)
+electricity
+
+elemento (el)
+element
+
+eliminación (la)
+removal
+
+embarazo (el)
+pregnancy
+
+emergencia (la)
+emergency
+
+emisión (la)
+emission
+
+emoción (la)
+emotion
+
+empate (el)
+tie
+
+emperador (el)
+emperor
+
+empleado (el)
+employee
+
+empleador (el)
+employer
+
+empleo (el)
+employment
+
+empresa (la)
+company
+
+empuñadura (la)
+grip
+
+encabezamiento (el)
+heading
+
+encuesta (la)
+poll
+
+enemigo (el)
+enemy
+
+energía (la)
+energy
+
+enfermedad (la)
+disease
+
+enfermera (la)
+nurse
+
+enfoque (el)
+approach
+
+engranaje (el)
+gear
+
+enlace (el)
+link
+
+enmienda (la)
+amendment
+
+ensayo (el)
+essay
+
+enseñanza (la)
+teaching
+
+entidad (la)
+entity
+
+entrada (la)
+entry
+
+entrega (la)
+delivery
+
+entrenador (el)
+coach
+
+entretenimiento (el)
+entertainment
+
+entrevista (la)
+interview
+
+entusiasmo (el)
+enthusiasm
+
+envoltura (la)
+envelope
+
+episodio (el)
+episode
+
+equidad (la)
+equity
+
+equipo (el)
+team
+
+equivalente (el)
+equivalent
+
+era (la)
+era
+
+error (el)
+mistake
+
+erudito (el)
+scholar
+
+escala (la)
+scale
+
+escaleras (las)
+stairs
+
+escape (el)
+escape
+
+escasez (la)
+shortage
+
+escena (la)
+scene
+
+escritor (el)
+writer
+
+escritorio (el)
+desk
+
+escritura (la)
+writing
+
+escuadra (la)
+squad
+
+escuela (la)
+school
+
+escultura (la)
+sculpture
+
+escándalo (el)
+scandal
+
+esencia (la)
+essence
+
+esfera (la)
+sphere
+
+esfuerzo (el)
+effort
+
+espacio (el)
+space
+
+espada (la)
+sword
+
+especialista (el)
+specialist
+
+especificación (la)
+specification
+
+espectro (el)
+spectrum
+
+especulación (la)
+speculation
+
+espejo (el)
+mirror
+
+esperanza (la)
+hope
+
+esposa (la)
+wife
+
+espécimen (el)
+specimen
+
+espíritu (el)
+spirit
+
+esquema (el)
+scheme
+
+esquina (la)
+corner
+
+estabilidad (la)
+stability
+
+establecimiento (el)
+establishment
+
+estaca (la)
+stake
+
+estación (la)
+station
+
+estado (el)
+state
+
+estanque (el)
+pond
+
+estante (el)
+shelf
+
+estatuto (el)
+statute
+
+estaño (el)
+tin
+
+estilo (el)
+style
+
+estimación (la)
+estimate
+
+estrategia (la)
+strategy
+
+estrella (la)
+star
+
+estructura (la)
+structure
+
+estrés (el)
+stress
+
+estudiante (el)
+student
+
+estudio (el)
+study
+
+estímulo (el)
+stimulus
+
+estómago (el)
+stomach
+
+etiqueta (la)
+label
+
+evaluación (la)
+assessment
+
+evento (el)
+event
+
+evidencia (la)
+evidence
+
+evolución (la)
+evolution
+
+exactitud (la)
+accuracy
+
+examen (el)
+examination
+
+excepción (la)
+exception
+
+exclusión (la)
+exclusion
+
+excusa (la)
+excuse
+
+existencia (la)
+existence
+
+expansión (la)
+expansion
+
+expectativa (la)
+expectation
+
+experiencia (la)
+experience
+
+experimento (el)
+experiment
+
+experto (el)
+expert
+
+explicación (la)
+explanation
+
+explosión (la)
+explosion
+
+exportación (la)
+export
+
+exposición (la)
+exposure
+
+expresión (la)
+expression
+
+extensión (la)
+extension
+
+fabricante (el)
+maker
+
+factor (el)
+factor
+
+falda (la)
+skirt
+
+fallo (el)
+fault
+
+familia (la)
+family
+
+fantasma (el)
+ghost
+
+fantasía (la)
+fantasy
+
+favor (el)
+favour
+
+favorito (el)
+favourite
+
+fe (la)
+faith
+
+fecha (la)
+date
+
+federación (la)
+federation
+
+fenómeno (el)
+phenomenon
+
+ferrocarril (el)
+railway
+
+festival (el)
+festival
+
+fibra (la)
+fibre
+
+ficción (la)
+fiction
+
+fiduciario (el)
+trustee
+
+figura (la)
+figure
+
+fila (la)
+row
+
+filial (la)
+subsidiary
+
+filosofía (la)
+philosophy
+
+filtro (el)
+filter
+
+fin (el)
+end
+
+final (la)
+final
+
+finalización (la)
+completion
+
+financiación (la)
+finance
+
+finca (la)
+estate
+
+fiscalía (la)
+prosecution
+
+flexibilidad (la)
+flexibility
+
+flor (la)
+flower
+
+flota (la)
+fleet
+
+fluido (el)
+fluid
+
+flujo (el)
+flow
+
+foco (el)
+focus
+
+folleto (el)
+leaflet
+
+fondo (el)
+fund
+
+forma (la)
+form
+
+formación (la)
+training
+
+formato (el)
+format
+
+foro (el)
+forum
+
+fortuna (la)
+fortune
+
+foto (la)
+photo
+
+fotografía (la)
+photograph
+
+fracaso (el)
+failure
+
+fracción (la)
+fraction
+
+fragmento (el)
+fragment
+
+francés (el)
+french
+
+frase (la)
+phrase
+
+fraude (el)
+fraud
+
+frecuencia (la)
+frequency
+
+frente (el)
+front
+
+frijol (el)
+bean
+
+frontera (la)
+border
+
+fruto (el)
+fruit
+
+frío (el)
+cold
+
+fuego (el)
+fire
+
+fuente (la)
+source
+
+fuerza (la)
+force
+
+funcionamiento (el)
+running
+
+funcionario (el)
+official
+
+fundación (la)
+foundation
+
+funeral (el)
+funeral
+
+furgoneta (la)
+van
+
+fusión (la)
+merger
+
+futuro (el)
+future
+
+fábrica (la)
+factory
+
+fórmula (la)
+formula
+
+fútbol (el)
+football
+
+galería (la)
+gallery
+
+gama (la)
+range
+
+ganador (el)
+winner
+
+ganancia (la)
+gain
+
+garaje (el)
+garage
+
+garantía (la)
+guarantee
+
+garganta (la)
+throat
+
+gas (el)
+gas
+
+gasolina (la)
+petrol
+
+gasto (el)
+spending
+
+gastos (los)
+expenditure
+
+gato (el)
+cat
+
+gemelo (el)
+twin
+
+gen (el)
+gene
+
+generación (la)
+generation
+
+gente (la)
+folk
+
+gestión (la)
+management
+
+gesto (el)
+gesture
+
+gestor (el)
+manager
+
+gira (la)
+tour
+
+gloria (la)
+glory
+
+gobernador (el)
+governor
+
+gobierno (el)
+government
+
+golf (el)
+golf
+
+golpe (el)
+blow
+
+grabación (la)
+recording
+
+grado (el)
+degree
+
+graduado (el)
+graduate
+
+gramática (la)
+grammar
+
+granja (la)
+farm
+
+grano (el)
+grain
+
+grasa (la)
+fat
+
+grieta (la)
+crack
+
+grillo (el)
+cricket
+
+grito (el)
+cry
+
+grupo (el)
+group
+
+gráfico (el)
+chart
+
+guardia (la)
+guard
+
+guardián (el)
+guardian
+
+guerra (la)
+war
+
+guitarra (la)
+guitar
+
+guía (la)
+guide
+
+género (el)
+gender
+
+habilidad (la)
+skill
+
+habitación (la)
+room
+
+hallazgo (el)
+finding
+
+hardware (el)
+hardware
+
+haz (el)
+beam
+
+hechizo (el)
+spell
+
+hecho (el)
+fact
+
+hembra (la)
+female
+
+herida (la)
+wound
+
+hermana (la)
+sister
+
+hermano (el)
+brother
+
+herramienta (la)
+tool
+
+hielo (el)
+ice
+
+hierba (la)
+grass
+
+hierro (el)
+iron
+
+higo (el)
+fig
+
+hija (la)
+daughter
+
+hijo (el)
+son
+
+hipoteca (la)
+mortgage
+
+hipótesis (la)
+hypothesis
+
+his- (la)
+tory
+
+historia (la)
+story
+
+historiador (el)
+historian
+
+hogar (el)
+home
+
+hoja (la)
+leaf
+
+hombre (el)
+man
+
+hombro (el)
+shoulder
+
+honor (el)
+honour
+
+hora (la)
+hour
+
+horizonte (el)
+horizon
+
+horror (el)
+horror
+
+hospital (el)
+hospital
+
+hotel (el)
+hotel
+
+huelga (la)
+strike
+
+hueso (el)
+bone
+
+huevo (el)
+egg
+
+humana (la)
+human
+
+humo (el)
+smoke
+
+humor (el)
+humour
+
+hábito (el)
+habit
+
+héroe (el)
+hero
+
+idea (la)
+idea
+
+identidad (la)
+identity
+
+identificación (la)
+identification
+
+ideología (la)
+ideology
+
+idioma (el)
+language
+
+iglesia (la)
+church
+
+ilustración (la)
+illustration
+
+imagen (la)
+picture
+
+imaginación (la)
+imagination
+
+impacto (el)
+impact
+
+imperio (el)
+empire
+
+implementación (la)
+implementation
+
+implicación (la)
+implication
+
+importación (la)
+import
+
+importancia (la)
+importance
+
+imposición (la)
+taxation
+
+impresión (la)
+print
+
+impresora (la)
+printer
+
+impuesto (el)
+tax
+
+incentivo (el)
+incentive
+
+incertidumbre (la)
+uncertainty
+
+incidencia (la)
+incidence
+
+incidente (el)
+incident
+
+incumplimiento (el)
+breach
+
+incursión (la)
+raid
+
+indicación (la)
+indication
+
+indicador (el)
+indicator
+
+indirecta (la)
+hint
+
+individuo (el)
+individual
+
+industria (la)
+industry
+
+infancia (la)
+childhood
+
+infección (la)
+infection
+
+infierno (el)
+hell
+
+inflación (la)
+inflation
+
+influencia (la)
+influence
+
+información (la)
+information
+
+informe (el)
+report
+
+ingeniero (el)
+engineer
+
+ingeniería (la)
+engineering
+
+inglés (el)
+english
+
+ingrediente (el)
+ingredient
+
+ingresos (los)
+income
+
+iniciativa (la)
+initiative
+
+inicio (el)
+start
+
+innovación (la)
+innovation
+
+inodoro (el)
+toilet
+
+inquilino (el)
+tenant
+
+insecto (el)
+insect
+
+inspección (la)
+inspection
+
+inspector (el)
+inspector
+
+instalación (la)
+facility
+
+instancia (la)
+instance
+
+instinto (el)
+instinct
+
+institución (la)
+institution
+
+instituto (el)
+institute
+
+instrucción (la)
+instruction
+
+instrumento (el)
+instrument
+
+integración (la)
+integration
+
+inteligencia (la)
+intelligence
+
+intención (la)
+intention
+
+intento (el)
+attempt
+
+interacción (la)
+interaction
+
+intercambio (el)
+exchange
+
+interfaz (la)
+interface
+
+interior (el)
+interior
+
+interpretación (la)
+interpretation
+
+interruptor (el)
+switch
+
+intervalo (el)
+interval
+
+intervención (la)
+intervention
+
+interés (el)
+interest
+
+introducción (la)
+introduction
+
+invasión (la)
+invasion
+
+inversión (la)
+investment
+
+inversor (el)
+investor
+
+investigación (la)
+investigation
+
+investigador (el)
+researcher
+
+invierno (el)
+winter
+
+invitación (la)
+invitation
+
+invitado (el)
+guest
+
+ira (la)
+anger
+
+isla (la)
+island
+
+izquierda (la)
+left
+
+jardín (el)
+garden
+
+jefe (el)
+chief
+
+jerarquía (la)
+hierarchy
+
+joven (el)
+youngster
+
+jubilación (la)
+retirement
+
+judio (el)
+jew
+
+juego (el)
+game
+
+juez (el)
+judge
+
+jugador (el)
+player
+
+jugo (el)
+juice
+
+juguete (el)
+toy
+
+juicio (el)
+trial
+
+jurado (el)
+jury
+
+jurisdicción (la)
+jurisdiction
+
+justicia (la)
+justice
+
+justificación (la)
+justification
+
+juventud (la)
+youth
+
+kit (el)
+kit
+
+labio (el)
+lip
+
+laboratorio (el)
+laboratory
+
+lado (el)
+side
+
+ladrillo (el)
+brick
+
+lago (el)
+lake
+
+lana (la)
+wool
+
+lanzamiento (el)
+launch
+
+lealtad (la)
+loyalty
+
+lección (la)
+lesson
+
+leche (la)
+milk
+
+lector (el)
+reader
+
+lectura (la)
+reading
+
+legislación (la)
+legislation
+
+lengua (la)
+tongue
+
+lesión (la)
+injury
+
+letra (la)
+letter
+
+ley (la)
+law
+
+león (el)
+lion
+
+liberación (la)
+release
+
+libertad (la)
+freedom
+
+libra (la)
+pound
+
+libro (el)
+book
+
+licencia (la)
+leave
+
+liderazgo (el)
+leadership
+
+liga (la)
+league
+
+limitación (la)
+limitation
+
+lista (la)
+list
+
+literatura (la)
+literature
+
+llama (la)
+flame
+
+llamada (la)
+call
+
+llegada (la)
+arrival
+
+lluvia (la)
+rain
+
+logro (el)
+achievement
+
+longitud (la)
+length
+
+lote (el)
+lot
+
+lucha (la)
+fight
+
+lugar (el)
+place
+
+luna (la)
+moon
+
+luz (la)
+light
+
+lámpara (la)
+lamp
+
+líder (el)
+leader
+
+límite (el)
+limit
+
+línea (la)
+line
+
+lío (el)
+mess
+
+lógica (la)
+logic
+
+macho (el)
+male
+
+madera (la)
+wood
+
+madre (la)
+mother
+
+maestro (el)
+master
+
+magistrado (el)
+magistrate
+
+magistratura (la)
+bench
+
+mama (la)
+breast
+
+mancomunidad (la)
+commonwealth
+
+mano (la)
+hand
+
+manta (la)
+blanket
+
+mantequilla (la)
+butter
+
+manzana (la)
+apple
+
+mapa (el)
+map
+
+maquinaria (la)
+machinery
+
+mar (el)
+sea
+
+maravilla (la)
+wonder
+
+marca (la)
+brand
+
+marcha (la)
+go
+
+marco (el)
+framework
+
+marea (la)
+tide
+
+margen (el)
+margin
+
+marido (el)
+husband
+
+marina (la)
+navy
+
+masa (la)
+mass
+
+mascota (la)
+pet
+
+mate (el)
+mate
+
+materia (la)
+matter
+
+material (el)
+material
+
+matrimonio (el)
+marriage
+
+mayoría (la)
+majority
+
+mañana (la)
+morning
+
+mecanismo (el)
+mechanism
+
+media (la)
+half
+
+medianoche (la)
+midnight
+
+medicamento (el)
+medicine
+
+medición (la)
+measurement
+
+medida (la)
+extent
+
+medio (el)
+medium
+
+mejilla (la)
+cheek
+
+mejora (la)
+improvement
+
+melodía (la)
+tune
+
+memoria (la)
+memory
+
+mensaje (el)
+message
+
+mente (la)
+mind
+
+mentira (la)
+lie
+
+menú (el)
+menu
+
+mercado (el)
+market
+
+mes (el)
+month
+
+metal (el)
+metal
+
+metro (el)
+metre
+
+miedo (el)
+fear
+
+miembro (el)
+member
+
+miembros (los)
+membership
+
+mil (los)
+thousand
+
+milla (la)
+mile
+
+millón (el)
+million
+
+mina (la)
+mine
+
+mineral (el)
+mineral
+
+minero (el)
+miner
+
+ministerio (el)
+ministry
+
+ministro (el)
+minister
+
+minoría (la)
+minority
+
+minuto (el)
+minute
+
+mirada (la)
+look
+
+misil (el)
+missile
+
+misión (la)
+mission
+
+misterio (el)
+mystery
+
+mito (el)
+myth
+
+moda (la)
+fashion
+
+modelo (el)
+model
+
+modificación (la)
+modification
+
+molino (el)
+mill
+
+molécula (la)
+molecule
+
+momento (el)
+moment
+
+momia (la)
+mummy
+
+moneda (la)
+currency
+
+monopolio (el)
+monopoly
+
+montaña (la)
+mountain
+
+mortalidad (la)
+mortality
+
+motivación (la)
+motivation
+
+motivo (el)
+motive
+
+moto (la)
+bike
+
+motor (el)
+engine
+
+movimiento (el)
+movement
+
+muchacho (el)
+lad
+
+muebles (los)
+furniture
+
+muelle (el)
+dock
+
+muerte (la)
+death
+
+muestra (la)
+sample
+
+mujer (la)
+woman
+
+multitud (la)
+crowd
+
+mundo (el)
+world
+
+museo (el)
+museum
+
+máquina (la)
+machine
+
+médico (el)
+doctor
+
+mérito (el)
+merit
+
+método (el)
+method
+
+mínimo (el)
+minimum
+
+módulo (el)
+module
+
+músculo (el)
+muscle
+
+música (la)
+music
+
+músico (el)
+musician
+
+nacimiento (el)
+birth
+
+nación (la)
+nation
+
+nariz (la)
+nose
+
+natación (la)
+swimming
+
+naturaleza (la)
+nature
+
+nave (la)
+craft
+
+necesidad (la)
+need
+
+negativa (la)
+refusal
+
+negociación (la)
+negotiation
+
+negocio (el)
+business
+
+negro (el)
+black
+
+nervio (el)
+nerve
+
+nido (el)
+nest
+
+nieve (la)
+snow
+
+nivel (el)
+level
+
+niño (el)
+child
+
+no (la)
+no
+
+noche (la)
+night
+
+noción (la)
+notion
+
+nombramiento (el)
+appointment
+
+nombre (el)
+name
+
+norma (la)
+standard
+
+nota (la)
+note
+
+notificación (la)
+notice
+
+novela (la)
+novel
+
+nube (la)
+cloud
+
+núcleo (el)
+core
+
+número (el)
+number
+
+obispo (el)
+bishop
+
+objeción (la)
+objection
+
+objetivo (el)
+goal
+
+objeto (el)
+object
+
+obligación (la)
+obligation
+
+obra (la)
+work
+
+observación (la)
+remark
+
+observador (el)
+observer
+
+ocasión (la)
+occasion
+
+ocio (el)
+leisure
+
+ocupación (la)
+occupation
+
+océano (el)
+ocean
+
+oferta (la)
+offer
+
+oficial (el)
+officer
+
+oficina (la)
+office
+
+ojo (el)
+eye
+
+ola (la)
+wave
+
+olla (la)
+pot
+
+olor (el)
+smell
+
+opción (la)
+option
+
+operación (la)
+operation
+
+operador (el)
+operator
+
+opinión (la)
+opinion
+
+oponente (el)
+opponent
+
+oportunidad (la)
+chance
+
+oposición (la)
+opposition
+
+oración (la)
+prayer
+
+orden (el)
+order
+
+ordenador (el)
+computer
+
+organismo (el)
+organism
+
+organización (la)
+organization
+
+orgullo (el)
+pride
+
+origen (el)
+origin
+
+orilla (la)
+shore
+
+oro (el)
+gold
+
+oscuridad (la)
+dark
+
+oso (el)
+bear
+
+otoño (el)
+autumn
+
+otro (el)
+other
+
+ovejas (las)
+sheep
+
+oxígeno (el)
+oxygen
+
+oído (el)
+ear
+
+paciente (el)
+patient
+
+padre (el)
+father
+
+pago (el)
+payment
+
+paisaje (el)
+landscape
+
+palabra (la)
+word
+
+palacio (el)
+palace
+
+palma (la)
+palm
+
+palo (el)
+stick
+
+pan (el)
+bread
+
+pandilla (la)
+gang
+
+panel (el)
+panel
+
+pantalla (la)
+screen
+
+papa (el)
+pope
+
+papa (la)
+potato
+
+papel (el)
+role
+
+papá (el)
+dad
+
+paquete (el)
+package
+
+par (el)
+pair
+
+parada (la)
+stop
+
+parche (el)
+patch
+
+pared (la)
+wall
+
+pareja (la)
+couple
+
+parlamento (el)
+parliament
+
+parque (el)
+park
+
+parroquia (la)
+parish
+
+parte (la)
+part
+
+participación (la)
+involvement
+
+participante (el)
+participant
+
+partido (el)
+party
+
+partícula (la)
+particle
+
+pasado (el)
+past
+
+pasaje (el)
+passage
+
+pasajero (el)
+passenger
+
+pascua (la)
+easter
+
+pase (el)
+pass
+
+paseo (el)
+ride
+
+pasivo (el)
+liability
+
+pasión (la)
+passion
+
+patio (el)
+yard
+
+pato (el)
+duck
+
+patrimonio (el)
+heritage
+
+patrón (el)
+pattern
+
+pausa (la)
+pause
+
+pavimento (el)
+pavement
+
+paz (la)
+peace
+
+país (el)
+country
+
+paño (el)
+cloth
+
+pc (el)
+pc
+
+pecado (el)
+sin
+
+pecho (el)
+chest
+
+peligro (el)
+danger
+
+pelota (la)
+ball
+
+película (la)
+movie
+
+pena (la)
+penalty
+
+pendiente (la)
+slope
+
+pensamiento (el)
+thought
+
+pensionista (el)
+pensioner
+
+pensión (la)
+pension
+
+percepción (la)
+perception
+
+perfil (el)
+profile
+
+periodista (el)
+journalist
+
+periódico (el)
+newspaper
+
+permiso (el)
+permission
+
+perro (el)
+dog
+
+persona (la)
+person
+
+personal (el)
+staff
+
+personalidad (la)
+personality
+
+perspectiva (la)
+perspective
+
+período (el)
+period
+
+pesadilla (la)
+nightmare
+
+pesca (la)
+fishing
+
+pescado (el)
+fish
+
+peso (el)
+weight
+
+piano (el)
+piano
+
+pico (el)
+peak
+
+pie (el)
+foot
+
+piedad (la)
+pity
+
+piedra (la)
+stone
+
+piel (la)
+skin
+
+pierna (la)
+leg
+
+pieza (la)
+piece
+
+pila (la)
+pile
+
+piloto (el)
+pilot
+
+pintor (el)
+painter
+
+pintura (la)
+painting
+
+piscina (la)
+pool
+
+piso (el)
+floor
+
+pista (la)
+track
+
+pistola (la)
+gun
+
+placa (la)
+plate
+
+placer (el)
+pleasure
+
+plan (el)
+plan
+
+plana (la)
+flat
+
+planeta (el)
+planet
+
+plano (el)
+plane
+
+planta (la)
+plant
+
+plata (la)
+silver
+
+plataforma (la)
+platform
+
+plato (el)
+dish
+
+playa (la)
+beach
+
+plaza (la)
+square
+
+plomo (el)
+lead
+
+pluma (la)
+pen
+
+plástico (el)
+plastic
+
+población (la)
+population
+
+poder (el)
+power
+
+poema (el)
+poem
+
+poesía (la)
+poetry
+
+poeta (el)
+poet
+
+policía (el)
+policeman
+
+policía (la)
+police
+
+politécnica (la)
+polytechnic
+
+pollo (el)
+chicken
+
+polo (el)
+pole
+
+polvo (el)
+dust
+
+política (la)
+policy
+
+político (el)
+politician
+
+pop (el)
+pop
+
+porcentaje (el)
+percentage
+
+portador (el)
+carrier
+
+portavoz (el)
+spokesman
+
+posada (la)
+inn
+
+posesión (la)
+possession
+
+posibilidad (la)
+possibility
+
+posición (la)
+position
+
+postura (la)
+stance
+
+potencial (el)
+potential
+
+pozo (el)
+pit
+
+practicante (el)
+practitioner
+
+precio (el)
+price
+
+preferencia (la)
+preference
+
+premio (el)
+award
+
+premisa (la)
+premise
+
+prensa (la)
+press
+
+preocupación (la)
+concern
+
+preparación (la)
+preparation
+
+presencia (la)
+presence
+
+presentación (la)
+presentation
+
+presente (la)
+present
+
+presidente (el)
+president
+
+presión (la)
+pressure
+
+presupuesto (el)
+budget
+
+prima (la)
+premium
+
+primavera (la)
+spring
+
+primo (el)
+cousin
+
+princesa (la)
+princess
+
+principio (el)
+beginning
+
+prioridad (la)
+priority
+
+prisionero (el)
+prisoner
+
+prisión (la)
+prison
+
+privilegio (el)
+privilege
+
+probabilidad (la)
+probability
+
+problema (el)
+problem
+
+procedimiento (el)
+proceeding
+
+procesador (el)
+processor
+
+producción (la)
+production
+
+productividad (la)
+productivity
+
+producto (el)
+product
+
+productor (el)
+producer
+
+profesional (el)
+professional
+
+profesión (la)
+profession
+
+profesor (el)
+professor
+
+profundidad (la)
+depth
+
+programa (el)
+program
+
+prohibición (la)
+ban
+
+promesa (la)
+promise
+
+promoción (la)
+promotion
+
+propagación (la)
+spread
+
+propiedad (la)
+property
+
+propietario (el)
+owner
+
+proporción (la)
+proportion
+
+proposición (la)
+proposition
+
+propuesta (la)
+proposal
+
+propósito (el)
+purpose
+
+protección (la)
+protection
+
+protesta (la)
+protest
+
+proteína (la)
+protein
+
+proveedor (el)
+supplier
+
+provincia (la)
+province
+
+provisión (la)
+provision
+
+proyecto (el)
+project
+
+prueba (la)
+test
+
+pruebas (las)
+testing
+
+práctica (la)
+practice
+
+préstamo (el)
+loan
+
+príncipe (el)
+prince
+
+psicología (la)
+psychology
+
+pub (el)
+pub
+
+publicación (la)
+publication
+
+pueblo (el)
+village
+
+puente (el)
+bridge
+
+puerta (la)
+door
+
+puerto (el)
+port
+
+pulgada (la)
+inch
+
+pulmón (el)
+lung
+
+punta (la)
+tip
+
+punto (el)
+point
+
+puntuación (la)
+score
+
+pupila (la)
+pupil
+
+página (la)
+page
+
+pájaro (el)
+bird
+
+pánico (el)
+panic
+
+párrafo (el)
+paragraph
+
+pérdida (la)
+loss
+
+público (el)
+public
+
+queja (la)
+complaint
+
+queso (el)
+cheese
+
+radiación (la)
+radiation
+
+radio (la)
+radio
+
+rama (la)
+branch
+
+rango (el)
+rank
+
+rata (la)
+rat
+
+ratón (el)
+mouse
+
+raza (la)
+breed
+
+razón (la)
+reason
+
+raíz (la)
+root
+
+reacción (la)
+reaction
+
+realidad (la)
+reality
+
+rebelde (el)
+rebel
+
+recepción (la)
+reception
+
+receptor (el)
+receiver
+
+recesión (la)
+recession
+
+receta (la)
+recipe
+
+recibo (el)
+receipt
+
+reclamación (la)
+claim
+
+recomendación (la)
+recommendation
+
+recompensa (la)
+reward
+
+reconocimiento (el)
+recognition
+
+recorrido (el)
+travel
+
+recuento (el)
+count
+
+recuperación (la)
+recovery
+
+recurso (el)
+resource
+
+red (la)
+network
+
+reducción (la)
+reduction
+
+redundancia (la)
+redundancy
+
+referencia (la)
+reference
+
+reflejo (el)
+reflection
+
+reforma (la)
+reform
+
+refugiado (el)
+refugee
+
+regalo (el)
+gift
+
+registro (el)
+record
+
+región (la)
+region
+
+regla (la)
+rule
+
+regreso (el)
+return
+
+regulación (la)
+regulation
+
+reina (la)
+queen
+
+reinado (el)
+reign
+
+reino (el)
+kingdom
+
+relación (la)
+relationship
+
+religión (la)
+religion
+
+reloj (el)
+watch
+
+remedio (el)
+remedy
+
+renuncia (la)
+resignation
+
+reparación (la)
+repair
+
+reportero (el)
+reporter
+
+representación (la)
+representation
+
+representante (el)
+representative
+
+república (la)
+republic
+
+requisito (el)
+requirement
+
+reserva (la)
+reserve
+
+residencia (la)
+residence
+
+residente (el)
+resident
+
+residuos (los)
+waste
+
+resistencia (la)
+resistance
+
+resolución (la)
+resolution
+
+resort (el)
+resort
+
+respeto (el)
+respect
+
+respiración (la)
+breath
+
+responsabilidad (la)
+responsibility
+
+respuesta (la)
+answer
+
+restauración (la)
+restoration
+
+restaurante (el)
+restaurant
+
+resto (el)
+rest
+
+restricción (la)
+restriction
+
+resultado (el)
+result
+
+resumen (el)
+summary
+
+retirada (la)
+withdrawal
+
+retraso (el)
+delay
+
+retrato (el)
+portrait
+
+reunión (la)
+meeting
+
+revisión (la)
+review
+
+revista (la)
+magazine
+
+revolución (la)
+revolution
+
+rey (el)
+king
+
+riel (el)
+rail
+
+riesgo (el)
+risk
+
+risa (la)
+laugh
+
+ritmo (el)
+pace
+
+rival (el)
+rival
+
+roble (el)
+oak
+
+robo (el)
+theft
+
+roca (la)
+rock
+
+rodilla (la)
+knee
+
+roja (la)
+red
+
+rollo (el)
+roll
+
+ronda (la)
+round
+
+ropa (la)
+clothing
+
+rosa (la)
+rose
+
+rueda (la)
+wheel
+
+ruido (el)
+noise
+
+rumor (el)
+rumour
+
+ruptura (la)
+break
+
+ruta (la)
+route
+
+rutina (la)
+routine
+
+régimen (el)
+regime
+
+río (el)
+river
+
+sabor (el)
+taste
+
+sacerdote (el)
+priest
+
+sala (la)
+hall
+
+salario (el)
+wage
+
+salida (la)
+departure
+
+salud (la)
+health
+
+sangre (la)
+blood
+
+sargento (el)
+sergeant
+
+satisfacción (la)
+satisfaction
+
+satélite (el)
+satellite
+
+sección (la)
+section
+
+secretario (el)
+secretary
+
+secreto (el)
+secret
+
+sector (el)
+sector
+
+secuencia (la)
+sequence
+
+seda (la)
+silk
+
+segunda (la)
+second
+
+seguridad (la)
+security
+
+seguro (el)
+insurance
+
+selección (la)
+selection
+
+semana (la)
+week
+
+semilla (la)
+seed
+
+seminario (el)
+seminar
+
+sensación (la)
+feeling
+
+sentencia (la)
+judgment
+
+sentido (el)
+sense
+
+separación (la)
+separation
+
+ser (el)
+being
+
+servicio (el)
+service
+
+servidor (el)
+server
+
+sesión (la)
+session
+
+sexo (el)
+sex
+
+señal (la)
+signal
+
+señor (el)
+sir
+
+señora (la)
+mrs
+
+señorita (la)
+miss
+
+show (el)
+show
+
+siervo (el)
+servant
+
+siglo (el)
+century
+
+significado (el)
+meaning
+
+signo (el)
+sign
+
+silencio (el)
+silence
+
+silla (la)
+chair
+
+simpatía (la)
+sympathy
+
+siniestro (el)
+casualty
+
+sitio (el)
+site
+
+situación (la)
+situation
+
+sociedad (la)
+society
+
+socio (el)
+partner
+
+sociología (la)
+sociology
+
+sol (el)
+sun
+
+soldado (el)
+soldier
+
+solicitante (el)
+applicant
+
+solicitud (la)
+request
+
+solución (la)
+solution
+
+sombra (la)
+shadow
+
+sombrero (el)
+hat
+
+sonido (el)
+sound
+
+sonrisa (la)
+smile
+
+soporte (el)
+stand
+
+sorpresa (la)
+surprise
+
+sospecha (la)
+suspicion
+
+subsidio (el)
+allowance
+
+subvención (la)
+grant
+
+sucesión (la)
+succession
+
+sucesor (el)
+successor
+
+suelo (el)
+soil
+
+suerte (la)
+luck
+
+sueño (el)
+dream
+
+sugerencia (la)
+suggestion
+
+suicidio (el)
+suicide
+
+sujeto (el)
+subject
+
+suma (la)
+sum
+
+suministro (el)
+supply
+
+superficie (la)
+surface
+
+supervivencia (la)
+survival
+
+sur (el)
+south
+
+sustancia (la)
+substance
+
+sustitución (la)
+replacement
+
+sándwich (el)
+sandwich
+
+símbolo (el)
+symbol
+
+síntoma (el)
+symptom
+
+tabla (la)
+table
+
+tablero (el)
+board
+
+talento (el)
+talent
+
+taller (el)
+workshop
+
+talón (el)
+heel
+
+tamaño (el)
+size
+
+tanque (el)
+tank
+
+tapa (la)
+cover
+
+tarde (la)
+afternoon
+
+tarea (la)
+task
+
+tarjeta (la)
+card
+
+tasa (la)
+rate
+
+taxi (el)
+taxi
+
+teatro (el)
+theatre
+
+techo (el)
+roof
+
+tecla (la)
+key
+
+tecnología (la)
+technology
+
+tejido (el)
+tissue
+
+tela (la)
+fabric
+
+televisión (la)
+television
+
+teléfono (el)
+phone
+
+tema (el)
+theme
+
+temperatura (la)
+temperature
+
+templo (el)
+temple
+
+temporada (la)
+season
+
+temporización (la)
+timing
+
+tendencia (la)
+trend
+
+tensión (la)
+tension
+
+teoría (la)
+theory
+
+terapia (la)
+therapy
+
+terraza (la)
+terrace
+
+terreno (el)
+ground
+
+territorio (el)
+territory
+
+tesis (la)
+thesis
+
+tesorería (la)
+treasury
+
+testigo (el)
+witness
+
+texto (el)
+text
+
+tiempo (el)
+time
+
+tienda (la)
+store
+
+tierra (la)
+land
+
+tipo (el)
+kind
+
+tira (la)
+strip
+
+titular (el)
+holder
+
+tonelada (la)
+tonne
+
+tono (el)
+tone
+
+tonto (el)
+fool
+
+toque (el)
+touch
+
+tormenta (la)
+storm
+
+torre (la)
+tower
+
+torta (la)
+cake
+
+trabajador (el)
+worker
+
+trabajo (el)
+job
+
+tradición (la)
+tradition
+
+tragedia (la)
+tragedy
+
+traje (el)
+suit
+
+trama (la)
+plot
+
+transacción (la)
+transaction
+
+transferencia (la)
+transfer
+
+transformación (la)
+transformation
+
+transición (la)
+transition
+
+transporte (el)
+transport
+
+trastorno (el)
+disorder
+
+tratado (el)
+treaty
+
+tratamiento (el)
+treatment
+
+traza (la)
+trace
+
+trazo (el)
+stroke
+
+tren (el)
+train
+
+tribunal (el)
+tribunal
+
+trimestre (el)
+quarter
+
+tripulación (la)
+crew
+
+triunfo (el)
+triumph
+
+tropa (la)
+troop
+
+truco (el)
+trick
+
+tráfico (el)
+traffic
+
+tubería (la)
+pipe
+
+tubo (el)
+tube
+
+tumba (la)
+grave
+
+turista (el)
+tourist
+
+tutor (el)
+tutor
+
+tv (la)
+tv
+
+táctica (la)
+tactic
+
+té (el)
+tea
+
+término (el)
+term
+
+tía (la)
+aunt
+
+tío (el)
+uncle
+
+título (el)
+title
+
+túnel (el)
+tunnel
+
+ubicación (la)
+location
+
+unidad (la)
+unit
+
+uniforme (el)
+uniform
+
+universidad (la)
+college
+
+universo (el)
+universe
+
+unix (el)
+unix
+
+unión (la)
+union
+
+uso (el)
+use
+
+usuario (el)
+user
+
+uña (la)
+nail
+
+vaca (la)
+cow
+
+vacaciones (las)
+holiday
+
+valla (la)
+fence
+
+valle (el)
+valley
+
+valor (el)
+value
+
+vapor (el)
+steam
+
+variable (la)
+variable
+
+variación (la)
+variation
+
+variedad (la)
+variety
+
+varilla (la)
+rod
+
+vecino (el)
+neighbour
+
+vegetal (el)
+vegetable
+
+vehículo (el)
+vehicle
+
+velocidad (la)
+speed
+
+vendedor (el)
+seller
+
+ventaja (la)
+advantage
+
+ventana (la)
+window
+
+ventilador (el)
+fan
+
+verano (el)
+summer
+
+verdad (la)
+truth
+
+verde (el)
+green
+
+vergüenza (la)
+shame
+
+versión (la)
+version
+
+verso (el)
+verse
+
+vestido (el)
+dress
+
+viaje (el)
+trip
+
+viajero (el)
+traveller
+
+victoria (la)
+victory
+
+vida (la)
+life
+
+video (el)
+video
+
+viento (el)
+wind
+
+villa (la)
+villa
+
+vino (el)
+wine
+
+violación (la)
+rape
+
+violencia (la)
+violence
+
+virtud (la)
+virtue
+
+virus (el)
+virus
+
+visita (la)
+visit
+
+visitante (el)
+visitor
+
+visión (la)
+vision
+
+vista (la)
+view
+
+viuda (la)
+widow
+
+vivero (el)
+nursery
+
+vivos (los)
+living
+
+volumen (el)
+volume
+
+voluntad (la)
+will
+
+voluntario (el)
+volunteer
+
+votante (el)
+voter
+
+voto (el)
+vote
+
+voz (la)
+voice
+
+vuelo (el)
+flight
+
+vuelta (la)
+turn
+
+víctima (la)
+victim
+
+vínculo (el)
+bond
+
+whisky (el)
+whisky
+
+zapato (el)
+shoe
+
+zarza (la)
+bush
+
+zona (la)
+area
+
+ácido (el)
+acid
+
+águila (el)
+eagle
+
+álbum (el)
+album
+
+ángel (el)
+angel
+
+ángulo (el)
+angle
+
+árbitro (el)
+ref
+
+árbol (el)
+tree
+
+éxito (el)
+success
+
+índice (el)
+index
+
+ópera (la)
+opera
+
+órgano (el)
+organ
