@@ -36,7 +36,7 @@ Langverse is a language-learning app designed to help users learn foreign langua
 
 Langverse is your companion for learning foreign languages. Its curated pathways, interactive quizzes, and total units offer a complete language-learning experience for users of all levels.
 
-## How to Run the Application
+## How to Run the App
 To run the Langverse application, follow these steps:
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
